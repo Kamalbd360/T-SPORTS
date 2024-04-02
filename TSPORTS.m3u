@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-SPORTS
 http://xtv.ooo:8080/T4S00515/820172/167590
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Bein Sports 2
+http://xtv.ooo:8080/6199216/619002/353015
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I1VyWqt.jpg",beIN Sports 3
+http://xtv.ooo:8080/6199216/619002/353016
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NAsylzo.jpg",beIN Sports 4
+http://xtv.ooo:8080/6199216/619002/353017
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/SFR8SFC.jpg",beIN Sports 5
+http://xtv.ooo:8080/6199216/619002/353018
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q25OggC.jpg",beIN Sports 6
+http://xtv.ooo:8080/6199216/619002/353019
